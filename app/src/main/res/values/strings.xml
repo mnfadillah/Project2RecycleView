@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ArtikelWayang</string>
+    <string name="detail">Detail</string>
+    <string name="about">About</string>
+    <string name="detail_name">Name</string>
+    <string name="detail_description">Description</string>
+    <string name="about_name">MUHAMMAD NUR FADILLAH</string>
+    <string name="about_email">mnfadilah20@gmail.com</string>
+</resources>
